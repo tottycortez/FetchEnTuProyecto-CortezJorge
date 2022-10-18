@@ -8,6 +8,10 @@ h1, h2 {
     color:rgb(195, 195, 195);
     font-size: 40px;
 }
+img{
+    width: 800px;
+    
+}
 
 p {
     display: none;
